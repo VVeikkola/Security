@@ -50,10 +50,10 @@ while index < len(df):
     row = df.iloc[index]
     
     # get all the rows with the same scenario id and combine them into one text blob for analysis
-    while index < len(df) and row["Scenario ID"] == df.iloc[index + 1]["Scenario ID"]:
+    while index < len(df) - 1 and row["Scenario ID"] == df.iloc[index + 1]["Scenario ID"]:
         text += row
         index += 1
-        if index >= len(df):
+        if index >= len(df) - 1:
             break
         row = df.iloc[index]
         
