@@ -1359,65 +1359,65 @@ M26,Unnoticed data theft,V7,Untested software applications,2,pr9.10,Simulations 
 M26,Unnoticed data theft,V7,Untested software applications,2,pr9.11,System Penetration Test,X
 M26,Unnoticed data theft,V7,Untested software applications,2,pr9.12,"Identify all possible ""trap doors"" and use them to check the risk of penetration",X
 M26,Unnoticed data theft,V7,Untested software applications,2,pr9.13,Formal demonstrations of how the software works,X
-#REF!,Unnoticed data theft,V21,Insufficient separation of logical work areas,2,s3,Logical work area separation,X
-#REF!,Unnoticed data theft,V21,Insufficient separation of logical work areas,2,s3.1,RAM memory area separation,X
-#REF!,Unnoticed data theft,V21,Insufficient separation of logical work areas,2,s3.2,Partitioning work areas on mass storage devices,X
-#REF!,Unnoticed data theft,V21,Insufficient separation of logical work areas,2,s3.3,"CPU operation in ""protected mode""",X
-#REF!,Unnoticed data theft,V21,Insufficient separation of logical work areas,2,s4,Reusing objects,X
-#REF!,Unnoticed data theft,V21,Insufficient separation of logical work areas,2,s4.1,Erasing blocks or pages of memory before they are allocated to another program or data,X
-#REF!,Unnoticed data theft,V21,Insufficient separation of logical work areas,2,s4.2,Erase disk blocks when a file is deleted or before they are allocated to a new file,X
-#REF!,Unnoticed data theft,V21,Insufficient separation of logical work areas,2,s4.3,Deleting objects from a graphical environment before allocating them to another user,X
-#REF!,Unnoticed data theft,V21,Insufficient separation of logical work areas,2,s4.4,Clearing the keyboard buffer or buffer containing the password after logging in,X
-#REF!,Unnoticed data theft,V21,Insufficient separation of logical work areas,2,s4.5,Deleting work pages and display pages from a terminal,X
-#REF!,Unnoticed data theft,V21,Insufficient separation of logical work areas,2,s4.6,Clearing the printer buffer,X
-#REF!,Unnoticed data theft,V21,Insufficient separation of logical work areas,2,s4.7,Deleting or reassigning access to information entered/processed by a user who no longer works on the system,X
-#REF!,Unnoticed data theft,V21,Insufficient separation of logical work areas,2,s9,"Implementation of ""discretionary access control""",X
-#REF!,Unnoticed data theft,V21,Insufficient separation of logical work areas,2,s10,"Implementation of ""mandatory access control""",X
-#REF!,Unnoticed data theft,V25,Insufficient information surveillance,3,f15,Terminal/Printer Positioning,X
-#REF!,Unnoticed data theft,V25,Insufficient information surveillance,3,f15.1,Not facing passageways (inaccessible to direct view),X
-#REF!,Unnoticed data theft,V25,Insufficient information surveillance,3,f15.2,Not facing the window (inaccessible to direct view),X
-#REF!,Unnoticed data theft,V25,Insufficient information surveillance,3,pr31,"Control of documentation exiting the CED, with recording of the date, time and employee",X
-#REF!,Unnoticed data theft,V25,Insufficient information surveillance,3,pr32,Procedure of marking tapes and disks with labels that can be detected by special sensors to prevent information theft,X
-#REF!,Unnoticed data theft,V25,Insufficient information surveillance,3,pr34,Cross-checking of entered data (only for high ranking),X
-#REF!,Unnoticed data theft,V14,Inadequate supervision,1,s11,Trusted path,X
-#REF!,Unnoticed data theft,V14,Inadequate supervision,1,s12,Trusted recovery capability,X
-#REF!,Unnoticed data theft,V14,Inadequate supervision,1,s12.1,Restarting the system in single-user mode,X
-#REF!,Unnoticed data theft,V14,Inadequate supervision,1,s12.2,Recovering files that were active at the time of system failure,X
-#REF!,Unnoticed data theft,V14,Inadequate supervision,1,s12.3,Recovering damaged files using previously made backups,X
-#REF!,Unnoticed data theft,V14,Inadequate supervision,1,s12.4,"Check critical files, associated with passwords",X
-#REF!,Unnoticed data theft,V23,Unauthorized software applications,2,pe3,Instructions on safety and personnel management,X
-#REF!,Unnoticed data theft,V23,Unauthorized software applications,2,pe3.1,Motivate staff to follow the company's safety policy,X
-#REF!,Unnoticed data theft,V23,Unauthorized software applications,2,pe3.2,Educate staff on possible threats and how to limit their extent by implementing mitigation measures.,X
-#REF!,Unnoticed data theft,V23,Unauthorized software applications,2,pe3.3,"Maintain constant attention to safety regulations by adopting posters, circular letters, educational videos",X
-#REF!,Unnoticed data theft,V23,Unauthorized software applications,2,pe3.4,Avoid situations of discontent on the part of employees,X
-#REF!,Unnoticed data theft,V23,Unauthorized software applications,2,pe3.5,Regularly review staff safety training,X
-#REF!,Unnoticed data theft,V23,Unauthorized software applications,2,pe3.6,Keep staff informed of safety news,X
-#REF!,Unnoticed data theft,V23,Unauthorized software applications,2,pe3.7,Maintain a climate of serenity within the company,X
-#REF!,Unnoticed data theft,V23,Unauthorized software applications,2,pe5,Establish a user support staff to perform security checks and provide assistance with security issues,X
-#REF!,Unnoticed data theft,V23,Unauthorized software applications,2,pr21,Hardware and software inventory,X
-#REF!,Unnoticed data theft,V23,Unauthorized software applications,2,pr22,Assigning access to application software and operating system according to need-to-know and qualification,X
-#REF!,Unnoticed data theft,V23,Unauthorized software applications,2,pr26,Configuration Management,X
-#REF!,Unnoticed data theft,V23,Unauthorized software applications,2,pr26.1,Assigning a unique identifier to each entry,X
-#REF!,Unnoticed data theft,V23,Unauthorized software applications,2,pr26.2,Developing a Configuration Management Plan,X
-#REF!,Unnoticed data theft,V23,Unauthorized software applications,2,pr26.3,Recording all changes to a system's configuration,X
-#REF!,Unnoticed data theft,V23,Unauthorized software applications,2,pr26.4,Implementing a configuration control plan,X
-#REF!,Unnoticed data theft,V23,Unauthorized software applications,2,pr26.5,Life cycle assurance,X
-#REF!,Unnoticed data theft,V17,Misuse of information by end users,3,pe3,Instructions on safety and personnel management,X
-#REF!,Unnoticed data theft,V17,Misuse of information by end users,3,pe3.1,Motivate staff to follow the company's safety policy,X
-#REF!,Unnoticed data theft,V17,Misuse of information by end users,3,pe3.2,Educate staff on possible threats and how to limit their extent by implementing mitigation measures.,X
-#REF!,Unnoticed data theft,V17,Misuse of information by end users,3,pe3.3,"Maintain constant attention to safety regulations by adopting posters, circular letters, educational videos",X
-#REF!,Unnoticed data theft,V17,Misuse of information by end users,3,pe3.4,Avoid situations of discontent on the part of employees,X
-#REF!,Unnoticed data theft,V17,Misuse of information by end users,3,pe3.5,Regularly review staff safety training,X
-#REF!,Unnoticed data theft,V17,Misuse of information by end users,3,pe3.6,Keep staff informed of safety news,X
-#REF!,Unnoticed data theft,V17,Misuse of information by end users,3,pe3.7,Maintain a climate of serenity within the company,X
-#REF!,Unnoticed data theft,V15,Ignorance of safety procedures,2,pe3,Instructions on safety and personnel management,X
-#REF!,Unnoticed data theft,V15,Ignorance of safety procedures,2,pe3.1,Motivate staff to follow the company's safety policy,X
-#REF!,Unnoticed data theft,V15,Ignorance of safety procedures,2,pe3.2,Educate staff on possible threats and how to limit their extent by implementing mitigation measures.,X
-#REF!,Unnoticed data theft,V15,Ignorance of safety procedures,2,pe3.3,"Maintain constant attention to safety regulations by adopting posters, circular letters, educational videos",X
-#REF!,Unnoticed data theft,V15,Ignorance of safety procedures,2,pe3.4,Avoid situations of discontent on the part of employees,X
-#REF!,Unnoticed data theft,V15,Ignorance of safety procedures,2,pe3.5,Regularly review staff safety training,X
-#REF!,Unnoticed data theft,V15,Ignorance of safety procedures,2,pe3.6,Keep staff informed of safety news,X
-#REF!,Unnoticed data theft,V15,Ignorance of safety procedures,2,pe3.7,Maintain a climate of serenity within the company,X
+M26,Unnoticed data theft,V21,Insufficient separation of logical work areas,2,s3,Logical work area separation,X
+M26,Unnoticed data theft,V21,Insufficient separation of logical work areas,2,s3.1,RAM memory area separation,X
+M26,Unnoticed data theft,V21,Insufficient separation of logical work areas,2,s3.2,Partitioning work areas on mass storage devices,X
+M26,Unnoticed data theft,V21,Insufficient separation of logical work areas,2,s3.3,"CPU operation in ""protected mode""",X
+M26,Unnoticed data theft,V21,Insufficient separation of logical work areas,2,s4,Reusing objects,X
+M26,Unnoticed data theft,V21,Insufficient separation of logical work areas,2,s4.1,Erasing blocks or pages of memory before they are allocated to another program or data,X
+M26,Unnoticed data theft,V21,Insufficient separation of logical work areas,2,s4.2,Erase disk blocks when a file is deleted or before they are allocated to a new file,X
+M26,Unnoticed data theft,V21,Insufficient separation of logical work areas,2,s4.3,Deleting objects from a graphical environment before allocating them to another user,X
+M26,Unnoticed data theft,V21,Insufficient separation of logical work areas,2,s4.4,Clearing the keyboard buffer or buffer containing the password after logging in,X
+M26,Unnoticed data theft,V21,Insufficient separation of logical work areas,2,s4.5,Deleting work pages and display pages from a terminal,X
+M26,Unnoticed data theft,V21,Insufficient separation of logical work areas,2,s4.6,Clearing the printer buffer,X
+M26,Unnoticed data theft,V21,Insufficient separation of logical work areas,2,s4.7,Deleting or reassigning access to information entered/processed by a user who no longer works on the system,X
+M26,Unnoticed data theft,V21,Insufficient separation of logical work areas,2,s9,"Implementation of ""discretionary access control""",X
+M26,Unnoticed data theft,V21,Insufficient separation of logical work areas,2,s10,"Implementation of ""mandatory access control""",X
+M26,Unnoticed data theft,V25,Insufficient information surveillance,3,f15,Terminal/Printer Positioning,X
+M26,Unnoticed data theft,V25,Insufficient information surveillance,3,f15.1,Not facing passageways (inaccessible to direct view),X
+M26,Unnoticed data theft,V25,Insufficient information surveillance,3,f15.2,Not facing the window (inaccessible to direct view),X
+M26,Unnoticed data theft,V25,Insufficient information surveillance,3,pr31,"Control of documentation exiting the CED, with recording of the date, time and employee",X
+M26,Unnoticed data theft,V25,Insufficient information surveillance,3,pr32,Procedure of marking tapes and disks with labels that can be detected by special sensors to prevent information theft,X
+M26,Unnoticed data theft,V25,Insufficient information surveillance,3,pr34,Cross-checking of entered data (only for high ranking),X
+M26,Unnoticed data theft,V14,Inadequate supervision,1,s11,Trusted path,X
+M26,Unnoticed data theft,V14,Inadequate supervision,1,s12,Trusted recovery capability,X
+M26,Unnoticed data theft,V14,Inadequate supervision,1,s12.1,Restarting the system in single-user mode,X
+M26,Unnoticed data theft,V14,Inadequate supervision,1,s12.2,Recovering files that were active at the time of system failure,X
+M26,Unnoticed data theft,V14,Inadequate supervision,1,s12.3,Recovering damaged files using previously made backups,X
+M26,Unnoticed data theft,V14,Inadequate supervision,1,s12.4,"Check critical files, associated with passwords",X
+M26,Unnoticed data theft,V23,Unauthorized software applications,2,pe3,Instructions on safety and personnel management,X
+M26,Unnoticed data theft,V23,Unauthorized software applications,2,pe3.1,Motivate staff to follow the company's safety policy,X
+M26,Unnoticed data theft,V23,Unauthorized software applications,2,pe3.2,Educate staff on possible threats and how to limit their extent by implementing mitigation measures.,X
+M26,Unnoticed data theft,V23,Unauthorized software applications,2,pe3.3,"Maintain constant attention to safety regulations by adopting posters, circular letters, educational videos",X
+M26,Unnoticed data theft,V23,Unauthorized software applications,2,pe3.4,Avoid situations of discontent on the part of employees,X
+M26,Unnoticed data theft,V23,Unauthorized software applications,2,pe3.5,Regularly review staff safety training,X
+M26,Unnoticed data theft,V23,Unauthorized software applications,2,pe3.6,Keep staff informed of safety news,X
+M26,Unnoticed data theft,V23,Unauthorized software applications,2,pe3.7,Maintain a climate of serenity within the company,X
+M26,Unnoticed data theft,V23,Unauthorized software applications,2,pe5,Establish a user support staff to perform security checks and provide assistance with security issues,X
+M26,Unnoticed data theft,V23,Unauthorized software applications,2,pr21,Hardware and software inventory,X
+M26,Unnoticed data theft,V23,Unauthorized software applications,2,pr22,Assigning access to application software and operating system according to need-to-know and qualification,X
+M26,Unnoticed data theft,V23,Unauthorized software applications,2,pr26,Configuration Management,X
+M26,Unnoticed data theft,V23,Unauthorized software applications,2,pr26.1,Assigning a unique identifier to each entry,X
+M26,Unnoticed data theft,V23,Unauthorized software applications,2,pr26.2,Developing a Configuration Management Plan,X
+M26,Unnoticed data theft,V23,Unauthorized software applications,2,pr26.3,Recording all changes to a system's configuration,X
+M26,Unnoticed data theft,V23,Unauthorized software applications,2,pr26.4,Implementing a configuration control plan,X
+M26,Unnoticed data theft,V23,Unauthorized software applications,2,pr26.5,Life cycle assurance,X
+M26,Unnoticed data theft,V17,Misuse of information by end users,3,pe3,Instructions on safety and personnel management,X
+M26,Unnoticed data theft,V17,Misuse of information by end users,3,pe3.1,Motivate staff to follow the company's safety policy,X
+M26,Unnoticed data theft,V17,Misuse of information by end users,3,pe3.2,Educate staff on possible threats and how to limit their extent by implementing mitigation measures.,X
+M26,Unnoticed data theft,V17,Misuse of information by end users,3,pe3.3,"Maintain constant attention to safety regulations by adopting posters, circular letters, educational videos",X
+M26,Unnoticed data theft,V17,Misuse of information by end users,3,pe3.4,Avoid situations of discontent on the part of employees,X
+M26,Unnoticed data theft,V17,Misuse of information by end users,3,pe3.5,Regularly review staff safety training,X
+M26,Unnoticed data theft,V17,Misuse of information by end users,3,pe3.6,Keep staff informed of safety news,X
+M26,Unnoticed data theft,V17,Misuse of information by end users,3,pe3.7,Maintain a climate of serenity within the company,X
+M26,Unnoticed data theft,V15,Ignorance of safety procedures,2,pe3,Instructions on safety and personnel management,X
+M26,Unnoticed data theft,V15,Ignorance of safety procedures,2,pe3.1,Motivate staff to follow the company's safety policy,X
+M26,Unnoticed data theft,V15,Ignorance of safety procedures,2,pe3.2,Educate staff on possible threats and how to limit their extent by implementing mitigation measures.,X
+M26,Unnoticed data theft,V15,Ignorance of safety procedures,2,pe3.3,"Maintain constant attention to safety regulations by adopting posters, circular letters, educational videos",X
+M26,Unnoticed data theft,V15,Ignorance of safety procedures,2,pe3.4,Avoid situations of discontent on the part of employees,X
+M26,Unnoticed data theft,V15,Ignorance of safety procedures,2,pe3.5,Regularly review staff safety training,X
+M26,Unnoticed data theft,V15,Ignorance of safety procedures,2,pe3.6,Keep staff informed of safety news,X
+M26,Unnoticed data theft,V15,Ignorance of safety procedures,2,pe3.7,Maintain a climate of serenity within the company,X
 M27,Violation of login procedures,V2,Uncontrolled changes to the operating system,3,pr9,Software development/update control,X
 M27,Violation of login procedures,V2,Uncontrolled changes to the operating system,3,pr9.1,Setting the gold standard for software development,X
 M27,Violation of login procedures,V2,Uncontrolled changes to the operating system,3,pr9.2,"Maintain a log of software changes, implementations, and the reasons for those changes",X
@@ -1481,53 +1481,53 @@ M27,Violation of login procedures,V7,Untested software applications,2,pr9.10,Sim
 M27,Violation of login procedures,V7,Untested software applications,2,pr9.11,System Penetration Test,X
 M27,Violation of login procedures,V7,Untested software applications,2,pr9.12,"Identify all possible ""trap doors"" and use them to check the risk of penetration",X
 M27,Violation of login procedures,V7,Untested software applications,2,pr9.13,Formal demonstrations of how the software works,X
-#REF!,Violation of login procedures,V23,Unauthorized software applications,2,pe3,Instructions on safety and personnel management,X
-#REF!,Violation of login procedures,V23,Unauthorized software applications,2,pe3.1,Motivate staff to follow the company's safety policy,X
-#REF!,Violation of login procedures,V23,Unauthorized software applications,2,pe3.2,Educate staff on possible threats and how to limit their extent by implementing mitigation measures.,X
-#REF!,Violation of login procedures,V23,Unauthorized software applications,2,pe3.3,"Maintain constant attention to safety regulations by adopting posters, circular letters, educational videos",X
-#REF!,Violation of login procedures,V23,Unauthorized software applications,2,pe3.4,Avoid situations of discontent on the part of employees,X
-#REF!,Violation of login procedures,V23,Unauthorized software applications,2,pe3.5,Regularly review staff safety training,X
-#REF!,Violation of login procedures,V23,Unauthorized software applications,2,pe3.6,Keep staff informed of safety news,X
-#REF!,Violation of login procedures,V23,Unauthorized software applications,2,pe3.7,Maintain a climate of serenity within the company,X
-#REF!,Violation of login procedures,V23,Unauthorized software applications,2,pe5,Establish a user support staff to perform security checks and provide assistance with security issues,X
-#REF!,Violation of login procedures,V23,Unauthorized software applications,2,pr21,Hardware and software inventory,X
-#REF!,Violation of login procedures,V23,Unauthorized software applications,2,pr22,Assigning access to application software and operating system according to need-to-know and qualification,X
-#REF!,Violation of login procedures,V23,Unauthorized software applications,2,pr26,Configuration Management,X
-#REF!,Violation of login procedures,V23,Unauthorized software applications,2,pr26.1,Assigning a unique identifier to each entry,X
-#REF!,Violation of login procedures,V23,Unauthorized software applications,2,pr26.2,Developing a Configuration Management Plan,X
-#REF!,Violation of login procedures,V23,Unauthorized software applications,2,pr26.3,Recording all changes to a system's configuration,X
-#REF!,Violation of login procedures,V23,Unauthorized software applications,2,pr26.4,Implementing a configuration control plan,X
-#REF!,Violation of login procedures,V23,Unauthorized software applications,2,pr26.5,Life cycle assurance,X
-#REF!,Violation of login procedures,V8,Inadequate logical access control,4,s1,Identification and authentication,X
-#REF!,Violation of login procedures,V8,Inadequate logical access control,4,s1.1,Password is not displayed on screen as you type,X
-#REF!,Violation of login procedures,V8,Inadequate logical access control,4,s1.2,The password is case sensitive.,X
-#REF!,Violation of login procedures,V8,Inadequate logical access control,4,s1.3,Password requires special characters,X
-#REF!,Violation of login procedures,V8,Inadequate logical access control,4,s1.4,Password must contain at least one numeric character,X
-#REF!,Violation of login procedures,V8,Inadequate logical access control,4,s1.5,Password must contain at least one alphabetic character,X
-#REF!,Violation of login procedures,V8,Inadequate logical access control,4,s1.6,The password must not contain more than three consecutive numbers or letters,X
-#REF!,Violation of login procedures,V8,Inadequate logical access control,4,s1.7,The password must not contain more than two consecutive identical numbers or letters,X
-#REF!,Violation of login procedures,V8,Inadequate logical access control,4,s1.8,New passwords must always be entered twice to verify correct typing.,X
-#REF!,Violation of login procedures,V8,Inadequate logical access control,4,s1.9,Encryption of passwords in transit on the network,X
-#REF!,Violation of login procedures,V8,Inadequate logical access control,4,s1.10,Encryption of passwords stored on the host,X
-#REF!,Violation of login procedures,V8,Inadequate logical access control,4,s1.11,Access blocked after n failed login attempts,X
-#REF!,Violation of login procedures,V8,Inadequate logical access control,4,s1.12,Time-limited access,X
-#REF!,Violation of login procedures,V8,Inadequate logical access control,4,s1.13,Viewing Last Login Messages,X
-#REF!,Violation of login procedures,V8,Inadequate logical access control,4,s1.14,Disabling system messages,X
-#REF!,Violation of login procedures,V8,Inadequate logical access control,4,s1.15,Periodic password change request,X
-#REF!,Violation of login procedures,V8,Inadequate logical access control,4,s1.16,Request for a different password from the previous one each time it is changed,X
-#REF!,Violation of login procedures,V8,Inadequate logical access control,4,s1.17,Creation of pronounceable passwords by the system,X
-#REF!,Violation of login procedures,V8,Inadequate logical access control,4,s1.18,Password expiration control,X
-#REF!,Violation of login procedures,V8,Inadequate logical access control,4,s1.19,Minimum password length assignment,X
-#REF!,Violation of login procedures,V8,Inadequate logical access control,4,s1.20,Consecutive request for multiple passwords after entering userid,X
-#REF!,Violation of login procedures,V8,Inadequate logical access control,4,s1.21,Check new user-generated passwords,X
-#REF!,Violation of login procedures,V8,Inadequate logical access control,4,s1.22,Stop requesting the userid for a certain period of time after n failed login attempts,X
-#REF!,Violation of login procedures,V8,Inadequate logical access control,4,s1.23,Identification of a user with a unique personal code,X
-#REF!,Violation of login procedures,V8,Inadequate logical access control,4,s1.24,Inactive terminals lock the screen or log off after a predetermined period of time,X
-#REF!,Violation of login procedures,V8,Inadequate logical access control,4,s1.25,Proxy account routing,X
-#REF!,Violation of login procedures,V8,Inadequate logical access control,4,s1.26,User account routing,X
-#REF!,Violation of login procedures,V8,Inadequate logical access control,4,s1.27,"The system does not warn the user that the userid is incorrect and still allows the password to be entered. After the password has been entered, it generically communicates that access has not been permitted",X
-#REF!,Violation of login procedures,V8,Inadequate logical access control,4,s9,"Implementation of ""discretionary access control""",X
-#REF!,Violation of login procedures,V8,Inadequate logical access control,4,s10,"Implementation of ""mandatory access control""",X
+M27,Violation of login procedures,V23,Unauthorized software applications,2,pe3,Instructions on safety and personnel management,X
+M27,Violation of login procedures,V23,Unauthorized software applications,2,pe3.1,Motivate staff to follow the company's safety policy,X
+M27,Violation of login procedures,V23,Unauthorized software applications,2,pe3.2,Educate staff on possible threats and how to limit their extent by implementing mitigation measures.,X
+M27,Violation of login procedures,V23,Unauthorized software applications,2,pe3.3,"Maintain constant attention to safety regulations by adopting posters, circular letters, educational videos",X
+M27,Violation of login procedures,V23,Unauthorized software applications,2,pe3.4,Avoid situations of discontent on the part of employees,X
+M27,Violation of login procedures,V23,Unauthorized software applications,2,pe3.5,Regularly review staff safety training,X
+M27,Violation of login procedures,V23,Unauthorized software applications,2,pe3.6,Keep staff informed of safety news,X
+M27,Violation of login procedures,V23,Unauthorized software applications,2,pe3.7,Maintain a climate of serenity within the company,X
+M27,Violation of login procedures,V23,Unauthorized software applications,2,pe5,Establish a user support staff to perform security checks and provide assistance with security issues,X
+M27,Violation of login procedures,V23,Unauthorized software applications,2,pr21,Hardware and software inventory,X
+M27,Violation of login procedures,V23,Unauthorized software applications,2,pr22,Assigning access to application software and operating system according to need-to-know and qualification,X
+M27,Violation of login procedures,V23,Unauthorized software applications,2,pr26,Configuration Management,X
+M27,Violation of login procedures,V23,Unauthorized software applications,2,pr26.1,Assigning a unique identifier to each entry,X
+M27,Violation of login procedures,V23,Unauthorized software applications,2,pr26.2,Developing a Configuration Management Plan,X
+M27,Violation of login procedures,V23,Unauthorized software applications,2,pr26.3,Recording all changes to a system's configuration,X
+M27,Violation of login procedures,V23,Unauthorized software applications,2,pr26.4,Implementing a configuration control plan,X
+M27,Violation of login procedures,V23,Unauthorized software applications,2,pr26.5,Life cycle assurance,X
+M27,Violation of login procedures,V8,Inadequate logical access control,4,s1,Identification and authentication,X
+M27,Violation of login procedures,V8,Inadequate logical access control,4,s1.1,Password is not displayed on screen as you type,X
+M27,Violation of login procedures,V8,Inadequate logical access control,4,s1.2,The password is case sensitive.,X
+M27,Violation of login procedures,V8,Inadequate logical access control,4,s1.3,Password requires special characters,X
+M27,Violation of login procedures,V8,Inadequate logical access control,4,s1.4,Password must contain at least one numeric character,X
+M27,Violation of login procedures,V8,Inadequate logical access control,4,s1.5,Password must contain at least one alphabetic character,X
+M27,Violation of login procedures,V8,Inadequate logical access control,4,s1.6,The password must not contain more than three consecutive numbers or letters,X
+M27,Violation of login procedures,V8,Inadequate logical access control,4,s1.7,The password must not contain more than two consecutive identical numbers or letters,X
+M27,Violation of login procedures,V8,Inadequate logical access control,4,s1.8,New passwords must always be entered twice to verify correct typing.,X
+M27,Violation of login procedures,V8,Inadequate logical access control,4,s1.9,Encryption of passwords in transit on the network,X
+M27,Violation of login procedures,V8,Inadequate logical access control,4,s1.10,Encryption of passwords stored on the host,X
+M27,Violation of login procedures,V8,Inadequate logical access control,4,s1.11,Access blocked after n failed login attempts,X
+M27,Violation of login procedures,V8,Inadequate logical access control,4,s1.12,Time-limited access,X
+M27,Violation of login procedures,V8,Inadequate logical access control,4,s1.13,Viewing Last Login Messages,X
+M27,Violation of login procedures,V8,Inadequate logical access control,4,s1.14,Disabling system messages,X
+M27,Violation of login procedures,V8,Inadequate logical access control,4,s1.15,Periodic password change request,X
+M27,Violation of login procedures,V8,Inadequate logical access control,4,s1.16,Request for a different password from the previous one each time it is changed,X
+M27,Violation of login procedures,V8,Inadequate logical access control,4,s1.17,Creation of pronounceable passwords by the system,X
+M27,Violation of login procedures,V8,Inadequate logical access control,4,s1.18,Password expiration control,X
+M27,Violation of login procedures,V8,Inadequate logical access control,4,s1.19,Minimum password length assignment,X
+M27,Violation of login procedures,V8,Inadequate logical access control,4,s1.20,Consecutive request for multiple passwords after entering userid,X
+M27,Violation of login procedures,V8,Inadequate logical access control,4,s1.21,Check new user-generated passwords,X
+M27,Violation of login procedures,V8,Inadequate logical access control,4,s1.22,Stop requesting the userid for a certain period of time after n failed login attempts,X
+M27,Violation of login procedures,V8,Inadequate logical access control,4,s1.23,Identification of a user with a unique personal code,X
+M27,Violation of login procedures,V8,Inadequate logical access control,4,s1.24,Inactive terminals lock the screen or log off after a predetermined period of time,X
+M27,Violation of login procedures,V8,Inadequate logical access control,4,s1.25,Proxy account routing,X
+M27,Violation of login procedures,V8,Inadequate logical access control,4,s1.26,User account routing,X
+M27,Violation of login procedures,V8,Inadequate logical access control,4,s1.27,"The system does not warn the user that the userid is incorrect and still allows the password to be entered. After the password has been entered, it generically communicates that access has not been permitted",X
+M27,Violation of login procedures,V8,Inadequate logical access control,4,s9,"Implementation of ""discretionary access control""",X
+M27,Violation of login procedures,V8,Inadequate logical access control,4,s10,"Implementation of ""mandatory access control""",X
 M28,Network worm,V3,Uncontrolled changes to the application software,2,pr9,Software development/update control,X
 M28,Network worm,V3,Uncontrolled changes to the application software,2,pr9.1,Setting the gold standard for software development,X
 M28,Network worm,V3,Uncontrolled changes to the application software,2,pr9.2,"Maintain a log of software changes, implementations, and the reasons for those changes",X
